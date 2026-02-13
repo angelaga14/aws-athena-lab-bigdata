@@ -1,0 +1,11 @@
+# AWS Credentials
+.env
+.aws/
+credentials
+
+# Python
+__pycache__/
+*.pyc
+
+# Mac
+.DS_Store
